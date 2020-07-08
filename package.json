@@ -1,7 +1,7 @@
 {
-  "name": "RestApi with mongoose",
+  "name": "blogApi with mongoose",
   "version": "1.0.0",
-  "description": "RestApi with mongoose",
+  "description": "simple blog api with mongoose",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
